@@ -4,7 +4,7 @@ This is a simple compilation of my [**Advent of Code**](https://adventofcode.com
 
 ## Dependencies
 
-Depencies can be found in [pyproject.toml](./pyproject.toml) (requires browser-cookie3 to find AoC cookie for automatic submission, but isn't necessary for execution).
+Dependencies can be found in [pyproject.toml](./pyproject.toml) (requires browser-cookie3 to find AoC cookie for automatic submission, but isn't necessary for execution if you set the  cookie in ```~/.config/aocd/token``` yourself).
 
 ## License
 
