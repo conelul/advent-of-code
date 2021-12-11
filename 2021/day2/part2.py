@@ -3,7 +3,7 @@ from loguru import logger
 from aocd import get_data, submit
 
 INPUT = get_data(day=2, year=2021).splitlines()
-logger.success('Loaded day 2, 2021 data')
+logger.success('Loaded data')
 
 aim = 0
 depth = 0
