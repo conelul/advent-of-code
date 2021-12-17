@@ -5,10 +5,12 @@ description = ""
 authors = ["Conor Scheidt <conelul@protonmail.com>"]
 
 [tool.poetry.dependencies]
-python = "^3.10"
+python = ">=3.10,<3.11"
 loguru = "^0.5.3"
 aocd = "^0.1"
 browser-cookie3 = "^0.13.0"
+pandas = "^1.3.4"
+matplotlib = "^3.5.1"
 
 [tool.poetry.dev-dependencies]
 
