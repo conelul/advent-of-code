@@ -11,7 +11,7 @@ def main() -> None:
     
     res = sum(fuel_vals)
     print(res)
-    submit(res, day=7, year=2021)
+    submit(res, part=1, day=7, year=2021)
 
 if __name__ == '__main__':
     main()
