@@ -1,6 +1,6 @@
 # Advent of Code!
 
-This is a simple compilation of my [**Advent of Code**](https://adventofcode.com) solutions, starting with 2021.
+This is a simple compilation of my [**Advent of Code**](https://adventofcode.com) solutions **in Python**.
 
 ## Dependencies
 
